@@ -1,0 +1,72 @@
+{
+  "name": "Unilend Token List",
+  "version": {
+    "major": 1,
+    "minor": 1,
+    "patch": 1
+  },
+  "keywords": [
+    "unilend",
+    "flash-loan"
+  ],
+  "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0202Be363B8a4820f3F4DE7FaF5224fF05943AB1/logo.png",
+  "timestamp": "2021-03-29T18:38:38+0000",
+  "tokens": [
+    {
+      "name": "Unilend Finance",
+      "chainId": 1,
+      "symbol": "UFT",
+      "decimals": 18,
+      "address": "0x0202Be363B8a4820f3F4DE7FaF5224fF05943AB1",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0202Be363B8a4820f3F4DE7FaF5224fF05943AB1/logo.png"
+    },
+    {
+      "name": "CyberFi Token",
+      "chainId": 1,
+      "symbol": "CFi",
+      "decimals": 18,
+      "address": "0x63b4f3e3fa4e438698CE330e365E831F7cCD1eF4",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x63b4f3e3fa4e438698CE330e365E831F7cCD1eF4/logo.png"
+    },
+    {
+      "name": "OddzToken",
+      "chainId": 1,
+      "symbol": "ODDZ",
+      "decimals": 18,
+      "address": "0xCd2828fc4D8E8a0eDe91bB38CF64B1a81De65Bf6",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xCd2828fc4D8E8a0eDe91bB38CF64B1a81De65Bf6/logo.png"
+    },
+    {
+      "name": "PolkaBridge",
+      "chainId": 1,
+      "symbol": "PBR",
+      "decimals": 18,
+      "address": "0x298d492e8c1d909D3F63Bc4A36C66c64ACB3d695",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x298d492e8c1d909D3F63Bc4A36C66c64ACB3d695/logo.png"
+    },
+    {
+      "name": "YOP",
+      "chainId": 1,
+      "symbol": "YOP",
+      "decimals": 8,
+      "address": "0xAE1eaAE3F627AAca434127644371b67B18444051",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xAE1eaAE3F627AAca434127644371b67B18444051/logo.png"
+    },
+    {
+      "name": "Unilend Finance",
+      "chainId": 3,
+      "symbol": "UFT",
+      "decimals": 18,
+      "address": "0x0202Be363B8a4820f3F4DE7FaF5224fF05943AB1",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0202Be363B8a4820f3F4DE7FaF5224fF05943AB1/logo.png"
+    },
+    {
+      "name": "Uniswap",
+      "chainId": 3,
+      "symbol": "UNI",
+      "decimals": 18,
+      "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984/logo.png"
+    }
+  ]
+}
