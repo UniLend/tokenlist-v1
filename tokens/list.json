@@ -67,6 +67,86 @@
       "decimals": 18,
       "address": "0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984",
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x1f9840a85d5aF5bf1D1762F925BDADdC4201F984/logo.png"
+    },
+    {
+      "name": "Unilend Finance",
+      "chainId": 97,
+      "symbol": "UFT",
+      "decimals": 18,
+      "address": "0xe9Be49144ACc5A28C45F162De4Eb1F8D38522Ac1",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0202Be363B8a4820f3F4DE7FaF5224fF05943AB1/logo.png"
+    },
+    {
+      "name": "Binance USD",
+      "chainId": 97,
+      "symbol": "BUSD",
+      "decimals": 18,
+      "address": "0xeD24FC36d5Ee211Ea25A80239Fb8C4Cfd80f12Ee",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x4Fabb145d64652a948d72533023f6E7A623C7C53/logo.png"
+    },
+    {
+      "name": "Unilend Finance",
+      "chainId": 137,
+      "symbol": "UFT",
+      "decimals": 18,
+      "address": "0x5b4cf2c120a9702225814e18543ee658c5f8631e",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x0202Be363B8a4820f3F4DE7FaF5224fF05943AB1/logo.png"
+    },
+    {
+      "name": "Wrapped Matic",
+      "chainId": 137,
+      "symbol": "WMATIC",
+      "decimals": 18,
+      "address": "0x0d500b1d8e8ef31e21c99d1db9a6444d3adf1270",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png"
+    },
+    {
+      "name": "Wrapped Ether",
+      "chainId": 137,
+      "symbol": "WETH",
+      "decimals": 18,
+      "address": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "name": "USD Coin",
+      "chainId": 137,
+      "symbol": "USDC",
+      "decimals": 6,
+      "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "name": "Quickswap",
+      "chainId": 137,
+      "symbol": "QUICK",
+      "decimals": 18,
+      "address": "0x831753DD7087CaC61aB5644b308642cc1c33Dc13",
+      "logoURI": "https://raw.githubusercontent.com/sameepsi/quickswap-interface/master/public/favicon.jpeg"
+    },
+    {
+      "name": "DFYN Token",
+      "chainId": 137,
+      "symbol": "DFYN",
+      "decimals": 18,
+      "address": "0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97",
+      "logoURI": "https://raw.githubusercontent.com/dfyn/assets/main/DFYN_logo.png"
+    },
+    {
+      "name": "miMATIC",
+      "chainId": 137,
+      "symbol": "miMATIC",
+      "decimals": 18,
+      "address": "0xa3Fa99A148fA48D14Ed51d610c367C61876997F1",
+      "logoURI": "https://raw.githubusercontent.com/0xlaozi/qidao/main/images/mimatic-red.png"
+    },
+    {
+      "name": "ELK",
+      "chainId": 137,
+      "symbol": "ELK",
+      "decimals": 18,
+      "address": "0xE1C8f3d529BEa8E3fA1FAC5B416335a2f998EE1C",
+      "logoURI": "https://raw.githubusercontent.com/elkfinance/bridge-tokens/main/avalanche-tokens/0xE1C8f3d529BEa8E3fA1FAC5B416335a2f998EE1C/logo.png"
     }
   ]
 }
